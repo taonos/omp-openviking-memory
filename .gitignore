@@ -3,3 +3,4 @@ dist/
 *.log
 .openviking/
 .DS_Store
+.context/compound-engineering/
